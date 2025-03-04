@@ -1,0 +1,7 @@
+C:\Users\yOzcc\source\repos\CSharpEgitimKampi\07_Foreach\bin\Debug\07_Foreach.exe.config
+C:\Users\yOzcc\source\repos\CSharpEgitimKampi\07_Foreach\bin\Debug\07_Foreach.exe
+C:\Users\yOzcc\source\repos\CSharpEgitimKampi\07_Foreach\bin\Debug\07_Foreach.pdb
+C:\Users\yOzcc\source\repos\CSharpEgitimKampi\07_Foreach\obj\Debug\07_Foreach.csproj.AssemblyReference.cache
+C:\Users\yOzcc\source\repos\CSharpEgitimKampi\07_Foreach\obj\Debug\07_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\yOzcc\source\repos\CSharpEgitimKampi\07_Foreach\obj\Debug\07_Foreach.exe
+C:\Users\yOzcc\source\repos\CSharpEgitimKampi\07_Foreach\obj\Debug\07_Foreach.pdb
