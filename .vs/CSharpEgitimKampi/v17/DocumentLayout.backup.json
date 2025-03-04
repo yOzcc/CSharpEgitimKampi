@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D416F233-D5A4-4D3F-83C2-A930B701F9A3}|09_DatabaseProject\\09_DatabaseProject.csproj|c:\\users\\yozcc\\source\\repos\\csharpegitimkampi\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D416F233-D5A4-4D3F-83C2-A930B701F9A3}|09_DatabaseProject\\09_DatabaseProject.csproj|solutionrelative:09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE4A717B-54D7-48C1-BEEE-DFFBBEC52402}|08_Methods\\08_Methods.csproj|c:\\users\\yozcc\\source\\repos\\csharpegitimkampi\\08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE4A717B-54D7-48C1-BEEE-DFFBBEC52402}|08_Methods\\08_Methods.csproj|solutionrelative:08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -52,18 +56,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\09_DatabaseProject\\Program.cs",
+              "RelativeDocumentMoniker": "09_DatabaseProject\\Program.cs",
+              "ToolTip": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\09_DatabaseProject\\Program.cs",
+              "RelativeToolTip": "09_DatabaseProject\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:21:54.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\08_Methods\\Program.cs",
               "RelativeDocumentMoniker": "08_Methods\\Program.cs",
-              "ToolTip": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\08_Methods\\Program.cs*",
-              "RelativeToolTip": "08_Methods\\Program.cs*",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAgwIcAAAA/AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\08_Methods\\Program.cs",
+              "RelativeToolTip": "08_Methods\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T18:01:35.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\07_Foreach\\Program.cs",
               "RelativeDocumentMoniker": "07_Foreach\\Program.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
               "RelativeDocumentMoniker": "06_Arrays\\Program.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\05_LoopsWithStars\\Program.cs",
               "RelativeDocumentMoniker": "05_LoopsWithStars\\Program.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\04_Loops\\Program.cs",
               "RelativeDocumentMoniker": "04_Loops\\Program.cs",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
               "RelativeDocumentMoniker": "03_MakingDecision\\Program.cs",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\02_Variables\\Program.cs",
               "RelativeDocumentMoniker": "02_Variables\\Program.cs",
