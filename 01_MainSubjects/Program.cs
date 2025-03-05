@@ -31,19 +31,19 @@ namespace _01_MainSubjects
             //Console.Read();
             #endregion          
 
-            Console.WriteLine("***Menu***");
-            Console.WriteLine("******************");
-            int pizzaPrice, cokePrice, hamburgerPrice, waterPrice, friesPrice;
-            pizzaPrice = 250;
-            hamburgerPrice = 300;
-            waterPrice = 10;
-            friesPrice = 75;
-            cokePrice = 30;
-            Console.WriteLine("Pizza: " + pizzaPrice + " TL");
-            Console.WriteLine("Hamburger: " + hamburgerPrice + " TL");
-            Console.WriteLine("Fries: " + friesPrice + " TL");
-            Console.WriteLine("Coke: " + cokePrice + " TL");
-            Console.WriteLine("Water: " + waterPrice + " TL");
+            //Console.WriteLine("***Menu***");
+            //Console.WriteLine("******************");
+            //int pizzaPrice, cokePrice, hamburgerPrice, waterPrice, friesPrice;
+            //pizzaPrice = 250;
+            //hamburgerPrice = 300;
+            //waterPrice = 10;
+            //friesPrice = 75;
+            //cokePrice = 30;
+            //Console.WriteLine("Pizza: " + pizzaPrice + " TL");
+            //Console.WriteLine("Hamburger: " + hamburgerPrice + " TL");
+            //Console.WriteLine("Fries: " + friesPrice + " TL");
+            //Console.WriteLine("Coke: " + cokePrice + " TL");
+            //Console.WriteLine("Water: " + waterPrice + " TL");
 
         }
     }

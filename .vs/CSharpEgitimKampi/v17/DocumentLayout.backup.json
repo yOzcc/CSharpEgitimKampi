@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D416F233-D5A4-4D3F-83C2-A930B701F9A3}|09_DatabaseProject\\09_DatabaseProject.csproj|c:\\users\\yozcc\\source\\repos\\csharpegitimkampi\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D416F233-D5A4-4D3F-83C2-A930B701F9A3}|09_DatabaseProject\\09_DatabaseProject.csproj|solutionrelative:09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE4A717B-54D7-48C1-BEEE-DFFBBEC52402}|08_Methods\\08_Methods.csproj|c:\\users\\yozcc\\source\\repos\\csharpegitimkampi\\08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE4A717B-54D7-48C1-BEEE-DFFBBEC52402}|08_Methods\\08_Methods.csproj|solutionrelative:08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1462A507-1A57-4EAC-AAED-31ECA9F0AC68}|07_Foreach\\07_Foreach.csproj|C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\07_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1462A507-1A57-4EAC-AAED-31ECA9F0AC68}|07_Foreach\\07_Foreach.csproj|solutionrelative:07_foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5124A7ED-7DEE-4FB0-BF31-A47DE50A0190}|06_Arrays\\06_Arrays.csproj|C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5124A7ED-7DEE-4FB0-BF31-A47DE50A0190}|06_Arrays\\06_Arrays.csproj|solutionrelative:06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08E071E7-15D2-4C40-966A-03B092434D8D}|05_LoopsWithStars\\05_LoopsWithStars.csproj|C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\05_loopswithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08E071E7-15D2-4C40-966A-03B092434D8D}|05_LoopsWithStars\\05_LoopsWithStars.csproj|solutionrelative:05_loopswithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52695C08-854F-446C-B3EE-FEA29C8C8694}|04_Loops\\04_Loops.csproj|C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52695C08-854F-446C-B3EE-FEA29C8C8694}|04_Loops\\04_Loops.csproj|solutionrelative:04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37880941-A405-4933-BC87-68BD0BED45CB}|03_MakingDecision\\03_MakingDecision.csproj|C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37880941-A405-4933-BC87-68BD0BED45CB}|03_MakingDecision\\03_MakingDecision.csproj|solutionrelative:03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B23FC0F-7A27-444D-9C2F-AA2A49A29DDD}|02_Variables\\02_Variables.csproj|C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B23FC0F-7A27-444D-9C2F-AA2A49A29DDD}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{169B576D-B0F4-40F8-8669-4116BBE367E8}|10_DatabaseCrud\\10_DatabaseCrud.csproj|c:\\users\\yozcc\\source\\repos\\csharpegitimkampi\\10_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169B576D-B0F4-40F8-8669-4116BBE367E8}|10_DatabaseCrud\\10_DatabaseCrud.csproj|solutionrelative:10_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,113 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\09_DatabaseProject\\Program.cs",
-              "RelativeDocumentMoniker": "09_DatabaseProject\\Program.cs",
-              "ToolTip": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\09_DatabaseProject\\Program.cs",
-              "RelativeToolTip": "09_DatabaseProject\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAACsAAAAkAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\10_DatabaseCrud\\Program.cs",
+              "RelativeDocumentMoniker": "10_DatabaseCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\10_DatabaseCrud\\Program.cs",
+              "RelativeToolTip": "10_DatabaseCrud\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwFYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:21:54.743Z",
+              "WhenOpened": "2025-03-05T21:28:49.296Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\08_Methods\\Program.cs",
-              "RelativeDocumentMoniker": "08_Methods\\Program.cs",
-              "ToolTip": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\08_Methods\\Program.cs",
-              "RelativeToolTip": "08_Methods\\Program.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:01:35.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\07_Foreach\\Program.cs",
-              "RelativeDocumentMoniker": "07_Foreach\\Program.cs",
-              "ToolTip": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\07_Foreach\\Program.cs",
-              "RelativeToolTip": "07_Foreach\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAQwEQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T13:41:55.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
-              "RelativeDocumentMoniker": "06_Arrays\\Program.cs",
-              "ToolTip": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
-              "RelativeToolTip": "06_Arrays\\Program.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAAAKIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:42:00.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\05_LoopsWithStars\\Program.cs",
-              "RelativeDocumentMoniker": "05_LoopsWithStars\\Program.cs",
-              "ToolTip": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\05_LoopsWithStars\\Program.cs",
-              "RelativeToolTip": "05_LoopsWithStars\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:19:40.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\04_Loops\\Program.cs",
-              "RelativeDocumentMoniker": "04_Loops\\Program.cs",
-              "ToolTip": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\04_Loops\\Program.cs",
-              "RelativeToolTip": "04_Loops\\Program.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAlwKYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:36:03.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
-              "RelativeDocumentMoniker": "03_MakingDecision\\Program.cs",
-              "ToolTip": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
-              "RelativeToolTip": "03_MakingDecision\\Program.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAlwMsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T13:39:49.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\02_Variables\\Program.cs",
-              "RelativeDocumentMoniker": "02_Variables\\Program.cs",
-              "ToolTip": "C:\\Users\\yOzcc\\source\\repos\\CSharpEgitimKampi\\02_Variables\\Program.cs",
-              "RelativeToolTip": "02_Variables\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T10:55:25.214Z"
             }
           ]
         }
